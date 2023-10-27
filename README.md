@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahmed Eltras
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter & dart
-- 💞️ I’m looking to collaborate on Open Source projects in Cross Platform
+- 👀 I’m interested in Asp.net
+- 🌱 I’m currently learning C# & .Net
+- 💞️ I’m looking to collaborate on Open Source projects 
 
 <!---
 AlienX0X/AlienX0X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
