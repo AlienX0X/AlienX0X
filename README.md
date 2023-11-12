@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ahmed Eltras
-- 👀 I’m interested in Asp.net
-- 🌱 I’m currently learning C# & .Net
+- 👀 I’m interested in Front-End Developer
 - 💞️ I’m looking to collaborate on Open Source projects 
 
 <!---
